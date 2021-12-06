@@ -1,0 +1,6 @@
+framework module Pods_ETA_Softwares {
+  umbrella header "Pods-ETA_Softwares-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ETA_Softwares_ETA_SoftwaresUITests {
+  umbrella header "Pods-ETA_Softwares-ETA_SoftwaresUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
